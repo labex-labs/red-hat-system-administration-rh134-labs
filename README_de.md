@@ -18,19 +18,19 @@ In diesem Fortgeschrittenenkurs vertiefen Sie Ihre Kenntnisse in der Systemadmin
 
 ## Übungen
 
-|   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                               |
-|---------|-------------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🔵 Bash-Skripte erstellen und ausführen in RHEL          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>Labor Starten</a>       |
-|      02 | 📖 🔵 Aufgabenplanung in Red Hat Enterprise Linux           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>Labor Starten</a>    |
-|      03 | 📖 🔵 Systemleistung in RHEL optimieren                     | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/rhel-tune-system-performance-in-rhel-588907'>Labor Starten</a>                    |
-|      04 | 📖 🔵 SELinux-Sicherheit in RHEL verwalten                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-selinux-security-in-rhel-589233'>Labor Starten</a>               |
-|      05 | 📖 🔵 RHEL-Speicherpartitionen und Swap-Bereich verwalte... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>Labor Starten</a> |
-|      06 | 📖 🔵 Erstellen und Erweitern von LVM Logical Volumes in... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>Labor Starten</a> |
-|      07 | 📖 🔵 NFS-Client-Zugriff in RHEL konfigurieren              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>Labor Starten</a>           |
-|      08 | 📖 🔵 Fehlerbehebung des RHEL-Bootvorgangs                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>Labor Starten</a>            |
-|      09 | 📖 🔵 Sicherheit mit firewalld und SELinux in RHEL          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>Labor Starten</a>     |
-|      10 | 📖 🔵 RHEL-Bereitstellungen installieren und automatisie... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-install-and-automate-rhel-deployments-589257'>Labor Starten</a>         |
-|      11 | 📖 🔵 Container mit Podman auf RHEL ausführen               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>Labor Starten</a>            |
+|   Index | Name                                                      | Schwierigkeit   | Übung                                                                                                                               |
+|---------|-----------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🆓 Bash-Skripte erstellen und ausführen in RHEL        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>Labor Starten</a>       |
+|      02 | 📖 🆓 Aufgabenplanung in Red Hat Enterprise Linux         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>Labor Starten</a>    |
+|      03 | 📖 🆓 Systemleistung in RHEL optimieren                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-tune-system-performance-in-rhel-588907'>Labor Starten</a>               |
+|      04 | 📖 🆓 SELinux-Sicherheit in RHEL verwalten                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-selinux-security-in-rhel-589233'>Labor Starten</a>               |
+|      05 | 📖  RHEL-Speicherpartitionen und Swap-Bereich verwalte... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>Labor Starten</a> |
+|      06 | 📖  Erstellen und Erweitern von LVM Logical Volumes in... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>Labor Starten</a> |
+|      07 | 📖  NFS-Client-Zugriff unter RHEL konfigurieren           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>Labor Starten</a>           |
+|      08 | 📖  Fehlerbehebung des RHEL-Bootvorgangs                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>Labor Starten</a>            |
+|      09 | 📖  Sicherheit mit firewalld und SELinux in RHEL          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>Labor Starten</a>     |
+|      10 | 📖  RHEL-Bereitstellungen installieren und automatisie... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-install-and-automate-rhel-deployments-589257'>Labor Starten</a>         |
+|      11 | 📖  Container mit Podman auf RHEL ausführen               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>Labor Starten</a>            |
 
 ## Umgebung
 
