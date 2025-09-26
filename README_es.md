@@ -18,19 +18,19 @@ En este curso intermedio, avance sus habilidades de administración de sistemas 
 
 ## Ejercicios
 
-|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                  |
-|----------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🔵 Crear y Ejecutar Scripts Bash en RHEL                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>Iniciar Laboratorio</a>       |
-|       02 | 📖 🔵 Programar Tareas en Red Hat Enterprise Linux          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>Iniciar Laboratorio</a>    |
-|       03 | 📖 🔵 Optimización del Rendimiento del Sistema en RHEL      | Principiante | <a target='_blank' href='https://labex.io/es/labs/rhel-tune-system-performance-in-rhel-588907'>Iniciar Laboratorio</a>                    |
-|       04 | 📖 🔵 Gestionar la Seguridad de SELinux en RHEL             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-manage-selinux-security-in-rhel-589233'>Iniciar Laboratorio</a>               |
-|       05 | 📖 🔵 Gestionar Particiones de Almacenamiento y Espacio ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>Iniciar Laboratorio</a> |
-|       06 | 📖 🔵 Crear y Extender Volúmenes Lógicos LVM en RHEL        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>Iniciar Laboratorio</a> |
-|       07 | 📖 🔵 Configurar el Acceso de Cliente NFS en RHEL           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>Iniciar Laboratorio</a>           |
-|       08 | 📖 🔵 Solución de Problemas del Proceso de Arranque de R... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>Iniciar Laboratorio</a>            |
-|       09 | 📖 🔵 Asegurar con firewalld y SELinux en RHEL              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>Iniciar Laboratorio</a>     |
-|       10 | 📖 🔵 Instalar y Automatizar Despliegues de RHEL            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-install-and-automate-rhel-deployments-589257'>Iniciar Laboratorio</a>         |
-|       11 | 📖 🔵 Ejecutar Contenedores con Podman en RHEL              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>Iniciar Laboratorio</a>            |
+|   Índice | Nombre                                                    | Dificultad   | Práctica                                                                                                                                  |
+|----------|-----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 Crear y Ejecutar Scripts Bash en RHEL               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>Iniciar Laboratorio</a>       |
+|       02 | 📖 🆓 Programar Tareas en Red Hat Enterprise Linux        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>Iniciar Laboratorio</a>    |
+|       03 | 📖 🆓 Optimización del Rendimiento del Sistema en RHEL    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-tune-system-performance-in-rhel-588907'>Iniciar Laboratorio</a>               |
+|       04 | 📖 🆓 Gestionar la Seguridad de SELinux en RHEL           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-manage-selinux-security-in-rhel-589233'>Iniciar Laboratorio</a>               |
+|       05 | 📖  Gestionar Particiones de Almacenamiento y Espacio ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>Iniciar Laboratorio</a> |
+|       06 | 📖  Crear y Extender Volúmenes Lógicos LVM en RHEL        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>Iniciar Laboratorio</a> |
+|       07 | 📖  Configurar acceso de cliente NFS en RHEL              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>Iniciar Laboratorio</a>           |
+|       08 | 📖  Solución de Problemas del Proceso de Arranque de R... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>Iniciar Laboratorio</a>            |
+|       09 | 📖  Asegurar con firewalld y SELinux en RHEL              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>Iniciar Laboratorio</a>     |
+|       10 | 📖  Instalar y Automatizar Despliegues de RHEL            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-install-and-automate-rhel-deployments-589257'>Iniciar Laboratorio</a>         |
+|       11 | 📖  Ejecutar Contenedores con Podman en RHEL              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>Iniciar Laboratorio</a>            |
 
 ## Entorno
 
