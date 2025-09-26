@@ -18,19 +18,19 @@
 
 ## 练习
 
-|   序号 | 名称                                                   | 难度   | 练习                                                                                                                           |
-|--------|--------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🔵 在 RHEL 中创建和执行 Bash 脚本                   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>开始实验</a>       |
-|     02 | 📖 🔵 在 Red Hat Enterprise Linux 中调度任务           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>开始实验</a>    |
-|     03 | 📖 🔵 在 RHEL 中调优系统性能                           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-tune-system-performance-in-rhel-588907'>开始实验</a>                    |
-|     04 | 📖 🔵 在 RHEL 中管理 SELinux 安全性                    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-manage-selinux-security-in-rhel-589233'>开始实验</a>               |
-|     05 | 📖 🔵 管理 RHEL 存储分区和交换空间                     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>开始实验</a> |
-|     06 | 📖 🔵 在 RHEL 中创建和扩展 LVM 逻辑卷                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>开始实验</a> |
-|     07 | 📖 🔵 在 RHEL 中配置 NFS 客户端访问                    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>开始实验</a>           |
-|     08 | 📖 🔵 排查 RHEL 启动过程问题                           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>开始实验</a>            |
-|     09 | 📖 🔵 在 RHEL 中使用 firewalld 和 SELinux 进行安全配置 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>开始实验</a>     |
-|     10 | 📖 🔵 安装并自动化 RHEL 部署                           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-install-and-automate-rhel-deployments-589257'>开始实验</a>         |
-|     11 | 📖 🔵 在 RHEL 上使用 Podman 运行容器                   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>开始实验</a>            |
+|   序号 | 名称                                                 | 难度   | 练习                                                                                                                           |
+|--------|------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 🆓 在 RHEL 中创建和执行 Bash 脚本                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>开始实验</a>       |
+|     02 | 📖 🆓 在 Red Hat Enterprise Linux 中调度任务         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>开始实验</a>    |
+|     03 | 📖 🆓 在 RHEL 中调优系统性能                         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-tune-system-performance-in-rhel-588907'>开始实验</a>               |
+|     04 | 📖 🆓 在 RHEL 中管理 SELinux 安全性                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-manage-selinux-security-in-rhel-589233'>开始实验</a>               |
+|     05 | 📖  管理 RHEL 存储分区和交换空间                     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>开始实验</a> |
+|     06 | 📖  在 RHEL 中创建和扩展 LVM 逻辑卷                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>开始实验</a> |
+|     07 | 📖  在 RHEL 中配置 NFS 客户端访问                    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>开始实验</a>           |
+|     08 | 📖  排查 RHEL 启动过程问题                           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>开始实验</a>            |
+|     09 | 📖  在 RHEL 中使用 firewalld 和 SELinux 进行安全配置 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>开始实验</a>     |
+|     10 | 📖  安装并自动化 RHEL 部署                           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-install-and-automate-rhel-deployments-589257'>开始实验</a>         |
+|     11 | 📖  在 RHEL 上使用 Podman 运行容器                   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>开始实验</a>            |
 
 ## 学习环境
 
