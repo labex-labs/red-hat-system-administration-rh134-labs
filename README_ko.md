@@ -18,19 +18,19 @@
 
 ## 연습
 
-|   인덱스 | 이름                                                     | 난이도   | 연습                                                                                                                            |
-|----------|----------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🔵 RHEL 에서 Bash 스크립트 생성 및 실행               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>실습 시작</a>       |
-|       02 | 📖 🔵 Red Hat Enterprise Linux 에서 작업 예약하기        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>실습 시작</a>    |
-|       03 | 📖 🔵 RHEL 시스템 성능 튜닝                              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/rhel-tune-system-performance-in-rhel-588907'>실습 시작</a>                    |
-|       04 | 📖 🔵 RHEL 에서 SELinux 보안 관리                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-manage-selinux-security-in-rhel-589233'>실습 시작</a>               |
-|       05 | 📖 🔵 RHEL 스토리지 파티션 및 스왑 공간 관리             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>실습 시작</a> |
-|       06 | 📖 🔵 RHEL 에서 LVM Logical Volume 생성 및 확장          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>실습 시작</a> |
-|       07 | 📖 🔵 RHEL 에서 NFS 클라이언트 접근 구성                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>실습 시작</a>           |
-|       08 | 📖 🔵 RHEL 부팅 프로세스 문제 해결                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>실습 시작</a>            |
-|       09 | 📖 🔵 RHEL 에서 firewalld 및 SELinux 를 이용한 보안 강화 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>실습 시작</a>     |
-|       10 | 📖 🔵 RHEL 배포 설치 및 자동화                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-install-and-automate-rhel-deployments-589257'>실습 시작</a>         |
-|       11 | 📖 🔵 RHEL 에서 Podman 으로 컨테이너 실행                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>실습 시작</a>            |
+|   인덱스 | 이름                                                   | 난이도   | 연습                                                                                                                            |
+|----------|--------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 RHEL 에서 Bash 스크립트 생성 및 실행             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>실습 시작</a>       |
+|       02 | 📖 🆓 Red Hat Enterprise Linux 에서 작업 예약하기      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>실습 시작</a>    |
+|       03 | 📖 🆓 RHEL 시스템 성능 튜닝                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-tune-system-performance-in-rhel-588907'>실습 시작</a>               |
+|       04 | 📖 🆓 RHEL 에서 SELinux 보안 관리                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-manage-selinux-security-in-rhel-589233'>실습 시작</a>               |
+|       05 | 📖  RHEL 스토리지 파티션 및 스왑 공간 관리             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>실습 시작</a> |
+|       06 | 📖  RHEL 에서 LVM Logical Volume 생성 및 확장          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>실습 시작</a> |
+|       07 | 📖  RHEL 에서 NFS 클라이언트 액세스 구성하기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>실습 시작</a>           |
+|       08 | 📖  RHEL 부팅 프로세스 문제 해결                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>실습 시작</a>            |
+|       09 | 📖  RHEL 에서 firewalld 및 SELinux 를 이용한 보안 강화 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>실습 시작</a>     |
+|       10 | 📖  RHEL 배포 설치 및 자동화                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-install-and-automate-rhel-deployments-589257'>실습 시작</a>         |
+|       11 | 📖  RHEL 에서 Podman 으로 컨테이너 실행                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>실습 시작</a>            |
 
 ## 환경
 
