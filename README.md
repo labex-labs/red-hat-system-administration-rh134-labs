@@ -18,23 +18,23 @@ In this intermediate course, advance your Red Hat Enterprise Linux system admini
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                     |
-|---------|---------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🆓 Create and Execute Bash Scripts in RHEL     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-create-and-execute-bash-scripts-in-rhel-588877'>Start Lab</a>       |
-|      02 | 📖 🆓 Schedule Tasks in Red Hat Enterprise Linux  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897'>Start Lab</a>    |
-|      03 | 📖 🆓 Tune System Performance in RHEL             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-tune-system-performance-in-rhel-588907'>Start Lab</a>               |
-|      04 | 📖 🆓 Manage SELinux Security in RHEL             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-manage-selinux-security-in-rhel-589233'>Start Lab</a>               |
-|      05 | 📖  Manage RHEL Storage Partitions and Swap Space | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-manage-rhel-storage-partitions-and-swap-space-589241'>Start Lab</a> |
-|      06 | 📖  Create and Extend LVM Logical Volumes in RHEL | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245'>Start Lab</a> |
-|      07 | 📖  Configure NFS Client Access in RHEL           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-configure-nfs-client-access-in-rhel-589252'>Start Lab</a>           |
-|      08 | 📖  Troubleshoot the RHEL Boot Process            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-troubleshoot-the-rhel-boot-process-589253'>Start Lab</a>            |
-|      09 | 📖  Secure with firewalld and SELinux in RHEL     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-secure-with-firewalld-and-selinux-in-rhel-589259'>Start Lab</a>     |
-|      10 | 📖  Install and Automate RHEL Deployments         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-install-and-automate-rhel-deployments-589257'>Start Lab</a>         |
-|      11 | 📖  Run Containers with Podman on RHEL            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/rhel-run-containers-with-podman-on-rhel-589256'>Start Lab</a>            |
+|   Index | Name                                              | Difficulty   | Practice                                                                                                                                                                |
+|---------|---------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🧩 🆓 Create and Execute Bash Scripts in RHEL     | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-create-and-execute-bash-scripts-in-rhel-588877?course=red-hat-system-administration-rh134-labs'>Start Lab</a>       |
+|      02 | 🧩 🆓 Schedule Tasks in Red Hat Enterprise Linux  | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-schedule-tasks-in-red-hat-enterprise-linux-588897?course=red-hat-system-administration-rh134-labs'>Start Lab</a>    |
+|      03 | 🧩 🆓 Tune System Performance in RHEL             | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-tune-system-performance-in-rhel-588907?course=red-hat-system-administration-rh134-labs'>Start Lab</a>               |
+|      04 | 🧩 🆓 Manage SELinux Security in RHEL             | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-manage-selinux-security-in-rhel-589233?course=red-hat-system-administration-rh134-labs'>Start Lab</a>               |
+|      05 | 🧩  Manage RHEL Storage Partitions and Swap Space | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-manage-rhel-storage-partitions-and-swap-space-589241?course=red-hat-system-administration-rh134-labs'>Start Lab</a> |
+|      06 | 🧩  Create and Extend LVM Logical Volumes in RHEL | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-create-and-extend-lvm-logical-volumes-in-rhel-589245?course=red-hat-system-administration-rh134-labs'>Start Lab</a> |
+|      07 | 🧩  Configure NFS Client Access in RHEL           | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-configure-nfs-client-access-in-rhel-589252?course=red-hat-system-administration-rh134-labs'>Start Lab</a>           |
+|      08 | 🧩  Troubleshoot the RHEL Boot Process            | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-troubleshoot-the-rhel-boot-process-589253?course=red-hat-system-administration-rh134-labs'>Start Lab</a>            |
+|      09 | 🧩  Secure with firewalld and SELinux in RHEL     | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-secure-with-firewalld-and-selinux-in-rhel-589259?course=red-hat-system-administration-rh134-labs'>Start Lab</a>     |
+|      10 | 🧩  Install and Automate RHEL Deployments         | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-install-and-automate-rhel-deployments-589257?course=red-hat-system-administration-rh134-labs'>Start Lab</a>         |
+|      11 | 🧩  Run Containers with Podman on RHEL            | Beginner     | <a target='_blank' href='https://labex.io/labs/rhel-run-containers-with-podman-on-rhel-589256?course=red-hat-system-administration-rh134-labs'>Start Lab</a>            |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
