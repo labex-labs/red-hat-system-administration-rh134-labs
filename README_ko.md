@@ -1,7 +1,7 @@
 # Red Hat 시스템 관리 (RH134) 자격증 실습
 
 > [!IMPORTANT]
-> This repository is a legacy standalone course kept for existing stars and links. For the current RHCSA (EX200) learning path, use [RHCSA Training](https://labex.io/learn/rhcsa) and the maintained path repository [labex-labs/rhcsa-certification-prep-ex200](https://github.com/labex-labs/rhcsa-certification-prep-ex200). The legacy RH124/RH134 labs remain available, but new certification prep updates are published in the new path.
+> This standalone RH124/RH134 course has been superseded by the current RHCSA (EX200) learning path. Use [RHCSA Training](https://labex.io/learn/rhcsa) and the maintained path repository [labex-labs/rhcsa-certification-prep-ex200](https://github.com/labex-labs/rhcsa-certification-prep-ex200) for the latest certification prep structure, courses, and practice exams.
 
 ## 언어
 
