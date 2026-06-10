@@ -1,5 +1,8 @@
 # Red Hat System Administration (RH134) Certification Labs
 
+> [!IMPORTANT]
+> This repository is a legacy standalone course kept for existing stars and links. For the current RHCSA (EX200) learning path, use [RHCSA Training](https://labex.io/learn/rhcsa) and the maintained path repository [labex-labs/rhcsa-certification-prep-ex200](https://github.com/labex-labs/rhcsa-certification-prep-ex200). The legacy RH124/RH134 labs remain available, but new certification prep updates are published in the new path.
+
 ## Languages
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
